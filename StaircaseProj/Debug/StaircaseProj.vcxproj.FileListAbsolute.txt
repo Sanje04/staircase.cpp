@@ -1,0 +1,2 @@
+C:\Users\sanje\source\cpp-projects\StaircaseProj\Debug\StaircaseProj.exe
+C:\Users\sanje\source\cpp-projects\StaircaseProj\Debug\StaircaseProj.pdb
